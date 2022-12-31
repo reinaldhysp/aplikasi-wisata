@@ -1,0 +1,16 @@
+.pagination a {
+    color: black;
+}
+  
+.pagination a:hover:not(.active) {
+  background-color: #f48840;
+}
+
+
+.sike {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+  overflow: hidden;
+}
